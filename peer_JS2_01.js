@@ -70,6 +70,7 @@ value = valToString(value);
 
 /*13. Console log value. Create an index.html file, link the this Javascript file. Load in the browser, check the value. */
 console.log(value);
+document.write("The value is " + value);
 
 /*14. Your answer should be a String value that equals 7. Is that what you got?
 YES WE ARE THE BEST HOOORAY
